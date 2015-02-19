@@ -7,5 +7,5 @@ git add *
 git commit -m"random nuber added"
 echo $RANDOM > test.txt
 git push origin master
-sleep 1
+sleep 10
 done
